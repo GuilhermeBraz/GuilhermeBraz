@@ -1,11 +1,7 @@
 ### Hi there, I'm Guilherme Braz 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a software engineering student in UnB, currently in my sixth semester!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Python and DataScience 🤣
 - 👯 I’m looking to collaborate with developers and researchers in IA
 - 🥅 2020 Goals: Colab in IA projects
@@ -48,12 +44,11 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
 
   <img align="left" alt="GuilhermeBraz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBraz&show_icons=true&hide_border=true" />
 
-</details>
+
 
 
 [linkedin]: https://www.linkedin.com/in/guilherme-braz-899b161b2
