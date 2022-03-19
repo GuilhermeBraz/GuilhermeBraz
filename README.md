@@ -1,10 +1,10 @@
 ### Hi there, I'm Guilherme Braz 👋
 
-## I'm a software engineering student in UnB, currently in my seventh semester!!
+## I'm a software engineering student in UnB, currently in my eigth semester!!
 
 - 🌱 I’m currently learning Python and React 🤣
 - 👯 I’m looking to collaborate with open source
-- 🥅 2021 Goals: Colab in open source projects
+- 🥅 2022 Goals: Colab in open source projects
 - ⚡ Fun fact: I love to listen to lex fridman pocasts and weight training
 
 ## Connect with me:
