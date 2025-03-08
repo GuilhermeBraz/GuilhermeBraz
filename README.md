@@ -1,12 +1,12 @@
 ### Hi there, I'm Guilherme Braz 👋
 
-## I'm a Systems Engineer specializing in Cloud and Microservices Security!
+## I'm a Solutions Engineer specializing in Appsec and Microservices Security!
 
-- 🔭 I’ve recently graduated and am now focusing on cloud architectures and microservices.
+- 🔭 I’ve graduated in software engineering at UnB (Universidade de Brasilia).
 - 🌱 I’m currently enhancing my skills in Secure Development Practices.
 - 🏅 I'm CompTIA Security+ certified.
 - 👯 I’m looking to collaborate on projects that focus on cybersecurity and networking in modern architectures.
-- 🥅 2023 Goals: Contribute to projects related to cloud security and secure development.
+- 🥅 2025 Goals: Contribute to projects related to cloud security and secure development.
 - ⚡ Fun fact: I enjoy listening to Lex Fridman's podcasts and weight training.
 
 ## Connect with me:
